@@ -1,8 +1,9 @@
 <html>
   <head>
-    <title>การเชื่อมโยงเว็บไซต์</title>
+    <title>เว็บไซต์ของ บัณฑิตา มังคละแสน</title>
   </head>
   <body>
-    <a href="https://https://facebook.com"><h1>วาร์ปของฉัน</h1></a>
-    <a href="contact.php"><h1>ติดต่อฉัน</h1></a>
-     <a href="contact.php"><h1>ไปด้านล่าง</h1></a>
+    <a href="https://facebook.com"><h1>Facebook</h1></a>
+    <a href="mypage2.php"><h1>Mypage2</h1></a>
+  </body>
+</html>
