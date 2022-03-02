@@ -13,7 +13,7 @@
       <tr>
         <td>1</td>
         <td>บัณฑิตา มังคละแสน</td>
-        <td><img src="https://today.line.me/th/v2/article/9MBLmm" width="45px"></td>
+        <td><img src="https://images.app.goo.gl/aWYSHoSVNpKKHCxU8" width="45px"></td>
         <td><img src="https://picpost.postjung.com/347659.html" width="45px"></td>
         <td><a href="https://www.facebook.com/Buntita.Mungkalasaen">Facebook</a></td>
       </tr>
